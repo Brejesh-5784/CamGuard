@@ -7,7 +7,7 @@ This Python script uses OpenCV and cvzone's PoseModule to detect the presence of
 Before running the script, ensure you have the following dependencies installed:
 
 ### Python Libraries:
-- OpenCV (`cv2`): `pip install opencv-python`
+- OpenCV (`cv2`): `pip install opencv-python` 
 - cvzone (`PoseModule`): `pip install cvzone`
 - Twilio (`twilio.rest`): `pip install twilio`
 
